@@ -27,5 +27,6 @@
     </style>
 <style name="SplashTime" parent="Theme.MaterialComponents.DayNight.NoActionBar">
     <item name="android:windowBackground">@drawable/splash_screen</item>
+    <item name ="backgroundColor">@color/white</item>
 </style>
 </resources>

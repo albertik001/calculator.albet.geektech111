@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidGeek/UI/calculator.albet.geektech/app/src/main/res/drawable/ic_arrow_right.xml" value="0.203125" />
+        <entry key="..\:/AndroidGeek/UI/calculator.albet.geektech/app/src/main/res/drawable/ic_arrow_rights.xml" value="0.203125" />
+        <entry key="..\:/AndroidGeek/UI/calculator.albet.geektech/app/src/main/res/drawable/ic_search.xml" value="0.203125" />
+        <entry key="..\:/AndroidGeek/UI/calculator.albet.geektech/app/src/main/res/drawable/ic_table.xml" value="0.203125" />
+        <entry key="..\:/AndroidGeek/UI/calculator.albet.geektech/app/src/main/res/drawable/splash_screen.xml" value="0.203125" />
         <entry key="..\:/AndroidGeek/UI/calculatoralbetgeektech/app/src/main/res/drawable/ic_arrow_rights.xml" value="0.24177631578947367" />
         <entry key="..\:/AndroidGeek/UI/calculatoralbetgeektech/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24177631578947367" />
         <entry key="..\:/AndroidGeek/UI/calculatoralbetgeektech/app/src/main/res/drawable/ic_search.xml" value="0.13980263157894737" />

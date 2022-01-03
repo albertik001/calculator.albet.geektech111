@@ -6,13 +6,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 
-public class Splash_screen extends AppCompatActivity {
+public class Splash_screen extends AppCompatActivity  {
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        new CountDownTimer(500, 500){
+        new CountDownTimer(1500, 1500){
 
             @Override
             public void onTick(long l) {
